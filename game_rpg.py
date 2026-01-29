@@ -70,6 +70,8 @@ class Hero:
         sisa_hp = self.get_hp() - damage
         self.set_hp(sisa_hp)
         print(f"{self.nama} terkena damage {damage}. Sisa HP: {self.get_hp()}")
+        
+print(f"Mencoba akses paksa: {hero1._Hero__hp}")
 
 hero1 = Hero("Layla", 100)
 hero1.set_hp(-50)
