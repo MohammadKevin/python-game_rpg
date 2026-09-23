@@ -12,25 +12,25 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A Python turn-based RPG game demonstrating Object-Oriented Programming (OOP) paradigms including Abstract Base Classes, inheritance, polymorphism, and stateful battle mechanics.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Class hierarchy with Abstract Character base classes
 - Turn-based battle mechanics with attack, defense, and special skills
 - Interactive CLI combat log with dynamic health calculation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language**: Python 3 (OOP)
 - **Architecture**: Abstract Base Classes (abc module)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 python-game_rpg/
 ├── game_rpg.py         # Main game execution loop
@@ -40,7 +40,7 @@ python-game_rpg/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -56,7 +56,7 @@ python game_rpg.py
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -65,9 +65,9 @@ python game_rpg.py
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
