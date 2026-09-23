@@ -18,9 +18,9 @@ A Python turn-based RPG game demonstrating Object-Oriented Programming (OOP) par
 ---
 
 ## ✨ Key Features
-- ⚡ **Class hierarchy with Abstract Character base classes**: Class hierarchy with Abstract Character base classes
-- ⚡ **Turn-based battle mechanics with attack, defense, and special skills**: Turn-based battle mechanics with attack, defense, and special skills
-- ⚡ **Interactive CLI combat log with dynamic health calculation**: Interactive CLI combat log with dynamic health calculation
+- Class hierarchy with Abstract Character base classes
+- Turn-based battle mechanics with attack, defense, and special skills
+- Interactive CLI combat log with dynamic health calculation
 
 ---
 
